@@ -1,0 +1,11 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+
+#poems {
+  color: white;
+  font-family: courier;
+  font-size: 12px;
+  line-height: 10px;
+}
